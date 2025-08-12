@@ -1,0 +1,14 @@
+{
+  "name": "brian-teka-portfolio",
+  "version": "1.0.0",
+  "description": "Brian P. Teka's Personal Portfolio Website",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server",
+    "build": "echo 'Build command will be added here'"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
